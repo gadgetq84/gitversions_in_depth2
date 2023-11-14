@@ -1,7 +1,7 @@
 My new project
 <<<<<<< HEAD
 test1
-
+test2
 rep2
 =======
 change log
